@@ -1,0 +1,20 @@
+.cell {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+.cell1 {
+  display: flex;
+}
+.cell2 {
+  display: flex;
+}
+.cell3 {
+  display: flex;
+}
+
